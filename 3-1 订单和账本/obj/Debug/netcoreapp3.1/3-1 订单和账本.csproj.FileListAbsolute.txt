@@ -1,0 +1,14 @@
+E:\Unity\NikoLua\Hello\3-1 订单和账本\bin\Debug\netcoreapp3.1\3-1 订单和账本.exe
+E:\Unity\NikoLua\Hello\3-1 订单和账本\bin\Debug\netcoreapp3.1\3-1 订单和账本.deps.json
+E:\Unity\NikoLua\Hello\3-1 订单和账本\bin\Debug\netcoreapp3.1\3-1 订单和账本.runtimeconfig.json
+E:\Unity\NikoLua\Hello\3-1 订单和账本\bin\Debug\netcoreapp3.1\3-1 订单和账本.runtimeconfig.dev.json
+E:\Unity\NikoLua\Hello\3-1 订单和账本\bin\Debug\netcoreapp3.1\3-1 订单和账本.dll
+E:\Unity\NikoLua\Hello\3-1 订单和账本\bin\Debug\netcoreapp3.1\3-1 订单和账本.pdb
+E:\Unity\NikoLua\Hello\3-1 订单和账本\obj\Debug\netcoreapp3.1\3-1 订单和账本.csproj.AssemblyReference.cache
+E:\Unity\NikoLua\Hello\3-1 订单和账本\obj\Debug\netcoreapp3.1\3-1 订单和账本.GeneratedMSBuildEditorConfig.editorconfig
+E:\Unity\NikoLua\Hello\3-1 订单和账本\obj\Debug\netcoreapp3.1\3-1 订单和账本.AssemblyInfoInputs.cache
+E:\Unity\NikoLua\Hello\3-1 订单和账本\obj\Debug\netcoreapp3.1\3-1 订单和账本.AssemblyInfo.cs
+E:\Unity\NikoLua\Hello\3-1 订单和账本\obj\Debug\netcoreapp3.1\3-1 订单和账本.csproj.CoreCompileInputs.cache
+E:\Unity\NikoLua\Hello\3-1 订单和账本\obj\Debug\netcoreapp3.1\3-1 订单和账本.dll
+E:\Unity\NikoLua\Hello\3-1 订单和账本\obj\Debug\netcoreapp3.1\3-1 订单和账本.pdb
+E:\Unity\NikoLua\Hello\3-1 订单和账本\obj\Debug\netcoreapp3.1\3-1 订单和账本.genruntimeconfig.cache
